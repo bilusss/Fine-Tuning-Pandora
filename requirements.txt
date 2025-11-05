@@ -1,0 +1,15 @@
+# requirements.txt wygenerowany automatycznie na podstawie importów w run.py
+# Uwaga: wersje nie są przypięte — zalecane jest ustalenie wersji przed produkcją,
+# np. pip install package==1.2.3 lub użycie pip-tools/poetry.
+
+torch
+transformers
+bitsandbytes
+peft
+datasets
+accelerate
+huggingface_hub
+# Opcjonalne/narzędziowe (jeśli używasz szybkich tokenizerów/safetensors):
+tokenizers
+safetensors
+emoji
