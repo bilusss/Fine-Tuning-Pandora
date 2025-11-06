@@ -40,9 +40,9 @@ def clean_text_for_personality(text):
     return text
 
 # ==================== ULTRA-SAFE CONFIG ====================
-MODEL_NAME = "mistralai/Mistral-7B-v0.1"
+MODEL_NAME = "meta-llama/Meta-Llama-3-8B"
 DATASET_NAME = "jingjietan/pandora-big5"
-OUTPUT_DIR = "./Mistral7b01-qlora-ultrasafe"
+OUTPUT_DIR = "./LLama3-qlora-ultrasafe-150k"
 
 # ULTRA-SAFE: Najmniejsze możliwe wartości dla gwarancji działania
 LORA_R = 8
@@ -58,8 +58,8 @@ MAX_SEQ_LENGTH = 128
 # 50k przykładów, efektywny batch=16 → 3125 effective steps
 # ~3s/krok × 8 accum = ~24s/effective step
 # 3125 × 24s = 20.8h
-TRAIN_SIZE = 50000
-VAL_SIZE = 5000
+TRAIN_SIZE = 150000
+VAL_SIZE = 15000
 
 print("="*70)
 print("🛡️  ULTRA-SAFE MODE - GWARANTOWANE DZIAŁANIE NA 16GB")

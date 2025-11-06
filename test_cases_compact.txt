@@ -1,0 +1,288 @@
+# Case 1 (O_highest)
+INPUT: Like I said above, this is mostly a more modern view, especially in the west, but some mahayana traditions apparently see things this way as well I just found out recently.you can't, only with you own...
+EXPECTED: O:100 C:69 E:97 A:86 N:39 Type:30
+
+--------------------------------------------------------------------------------
+
+# Case 2 (O_highest)
+INPUT: Anytime the news media really focuses in on one particular place, I always wonder what the agenda is.Reason? Because if you really understand much of global politics and humanity, you realize that the...
+EXPECTED: O:100 C:69 E:97 A:86 N:39 Type:30
+
+--------------------------------------------------------------------------------
+
+# Case 3 (O_highest)
+INPUT: This is actually a very common misconception, that monks get to ordain and then sit around meditating all day, and for 99% of all the monks in the world, that is more of a fairytale then reality :).Pr...
+EXPECTED: O:100 C:69 E:97 A:86 N:39 Type:30
+
+--------------------------------------------------------------------------------
+
+# Case 4 (O_highest)
+INPUT: I've seen some of your other posts, saying stuff like 'Regard all phenomena as dreams'.Frankly if you actually DID see it as such, you wouldn't have to wonder why others don't see it that way, because...
+EXPECTED: O:100 C:69 E:97 A:86 N:39 Type:30
+
+--------------------------------------------------------------------------------
+
+# Case 5 (O_highest)
+INPUT: actually... you can't transfer kamma, as that is our own, but you can do deeds that might effect relatives in the afterlife, but only if they are a peta, or ghost, according to one sutta, I believe it...
+EXPECTED: O:100 C:69 E:97 A:86 N:39 Type:30
+
+--------------------------------------------------------------------------------
+
+# Case 6 (O_lowest)
+INPUT: The same point you mentioned is iterated in the stackoverflow post or some related one. I think it's just better to differentiate between the built in and this one. To be honest with you I just found ...
+EXPECTED: O:0 C:98 E:94 A:72 N:69 Type:15
+
+--------------------------------------------------------------------------------
+
+# Case 7 (O_lowest)
+INPUT: I maintain my Anthony Harris preference...
+EXPECTED: O:0 C:71 E:13 A:10 N:82 Type:9
+
+--------------------------------------------------------------------------------
+
+# Case 8 (O_lowest)
+INPUT: -René Guénon - more of a metaphysicist, but has a lot of books on the occult as well plus he provides good grounding in the aforementioned metaphysics.-Wouter Hanegraaff - fantastic historian of weste...
+EXPECTED: O:0 C:12 E:92 A:3 N:22 Type:4
+
+--------------------------------------------------------------------------------
+
+# Case 9 (O_lowest)
+INPUT: Bitch, deku wasn't deku in the chisaki fight, he was all mighty. He had 100% OFA. ...
+EXPECTED: O:0 C:37 E:75 A:88 N:2 Type:6
+
+--------------------------------------------------------------------------------
+
+# Case 10 (O_lowest)
+INPUT: I read this in the Pure Michigan guy's voice. ...
+EXPECTED: O:0 C:70 E:98 A:4 N:0 Type:12
+
+--------------------------------------------------------------------------------
+
+# Case 11 (C_highest)
+INPUT: damn someone got in trouble for them to sell it for that much....
+EXPECTED: O:98 C:100 E:93 A:66 N:81 Type:31
+
+--------------------------------------------------------------------------------
+
+# Case 12 (C_highest)
+INPUT: Jesus, the balance that gorilla has is impressive. I almost fall in the shower a few times a month and this guy is spinning around like he is on carpet....
+EXPECTED: O:98 C:100 E:93 A:66 N:81 Type:31
+
+--------------------------------------------------------------------------------
+
+# Case 13 (C_highest)
+INPUT: I can understand as a collector you want to keep one in the box and then get one for yourself, I don't find that greedy at all but the people who take one away from those that want it disgust me. The ...
+EXPECTED: O:98 C:100 E:93 A:66 N:81 Type:31
+
+--------------------------------------------------------------------------------
+
+# Case 14 (C_highest)
+INPUT: I had a terrible tendency to give advice to people by circumventing the conversation back to me and my experiences as if I was the only person that went through them. I remember a friend just candidly...
+EXPECTED: O:98 C:100 E:93 A:66 N:81 Type:31
+
+--------------------------------------------------------------------------------
+
+# Case 15 (C_highest)
+INPUT: My perception of Joe is that he is interested in a ton of topics that go on right now and he will go on youtube and watch a few videos to sort of get a simple grasp of it. He knows he has the pull to ...
+EXPECTED: O:98 C:100 E:93 A:66 N:81 Type:31
+
+--------------------------------------------------------------------------------
+
+# Case 16 (C_lowest)
+INPUT: Ok thank you. Will probably try C# or NodeJS then. ...
+EXPECTED: O:29 C:0 E:4 A:0 N:92 Type:1
+
+--------------------------------------------------------------------------------
+
+# Case 17 (C_lowest)
+INPUT: Sorry, my home is only open to soldiers and my friends, not draft dodgers and men who hide behind lies and insults. Why don’t you go ask your buddy Putin?...
+EXPECTED: O:73 C:0 E:74 A:17 N:91 Type:21
+
+--------------------------------------------------------------------------------
+
+# Case 18 (C_lowest)
+INPUT: /u/stabbot...
+EXPECTED: O:90 C:0 E:10 A:2 N:17 Type:16
+
+--------------------------------------------------------------------------------
+
+# Case 19 (C_lowest)
+INPUT: totally acurate XD...
+EXPECTED: O:1 C:0 E:32 A:1 N:87 Type:1
+
+--------------------------------------------------------------------------------
+
+# Case 20 (C_lowest)
+INPUT: Thank you....
+EXPECTED: O:29 C:0 E:4 A:0 N:92 Type:1
+
+--------------------------------------------------------------------------------
+
+# Case 21 (E_highest)
+INPUT: https://www.youtube.com/watch?v=RgWIhYAtan4&amp;feature=youtu.be...
+EXPECTED: O:11 C:31 E:99 A:11 N:49 Type:4
+
+--------------------------------------------------------------------------------
+
+# Case 22 (E_highest)
+INPUT: I still can't believe people watch basketball. Why is this front page?...
+EXPECTED: O:6 C:8 E:99 A:90 N:0 Type:6
+
+--------------------------------------------------------------------------------
+
+# Case 23 (E_highest)
+INPUT: What is this car ranking on the speed chart? It looks sweet I am about to jump off the ledge and just buy it....
+EXPECTED: O:11 C:31 E:99 A:11 N:49 Type:4
+
+--------------------------------------------------------------------------------
+
+# Case 24 (E_highest)
+INPUT: pics pls...
+EXPECTED: O:11 C:31 E:99 A:11 N:49 Type:4
+
+--------------------------------------------------------------------------------
+
+# Case 25 (E_highest)
+INPUT: Give me back my skateboard! All I wanted to do was grind the paint off of everything and wax it. :(...
+EXPECTED: O:11 C:31 E:99 A:11 N:49 Type:4
+
+--------------------------------------------------------------------------------
+
+# Case 26 (E_lowest)
+INPUT: Go on...
+EXPECTED: O:54 C:93 E:0 A:0 N:95 Type:25
+
+--------------------------------------------------------------------------------
+
+# Case 27 (E_lowest)
+INPUT: Nah, there are definitely a few. It's just less noticeable because the Melee and Smash 4 communities are so much louder than ours....
+EXPECTED: O:43 C:15 E:0 A:50 N:39 Type:0
+
+--------------------------------------------------------------------------------
+
+# Case 28 (E_lowest)
+INPUT: So when you say:You're talking about at least two weeks after discontinuation, when withdrawal is no longer a factor?...
+EXPECTED: O:3 C:52 E:0 A:6 N:98 Type:9
+
+--------------------------------------------------------------------------------
+
+# Case 29 (E_lowest)
+INPUT: In the UK they are called Cool Original doritos....
+EXPECTED: O:54 C:93 E:0 A:0 N:95 Type:25
+
+--------------------------------------------------------------------------------
+
+# Case 30 (E_lowest)
+INPUT: Lo entiendo, y me parece perfectamente aplicable en algunos ámbitos como en los que ha nombrado TEDI anteriormente, que en la asignación de becas por ejemplo primen los estudiantes sin recursos.Pero e...
+EXPECTED: O:1 C:71 E:0 A:28 N:59 Type:9
+
+--------------------------------------------------------------------------------
+
+# Case 31 (A_highest)
+INPUT: cerebral could mean a few different things tho i think. I actually get a lot of people describing ME as cerebral, especially if they arent really close to me,  I guess cuz I project of all my ideas ou...
+EXPECTED: O:47 C:99 E:15 A:99 N:1 Type:10
+
+--------------------------------------------------------------------------------
+
+# Case 32 (A_highest)
+INPUT: 50% off, now that's what I call a sale...
+EXPECTED: O:48 C:44 E:15 A:99 N:13 Type:2
+
+--------------------------------------------------------------------------------
+
+# Case 33 (A_highest)
+INPUT: What were they?...
+EXPECTED: O:48 C:44 E:15 A:99 N:13 Type:2
+
+--------------------------------------------------------------------------------
+
+# Case 34 (A_highest)
+INPUT: Addiction is only a problem if the med wears off and you need more and more. Otherwise it's just fixing a problem. It already sounds like you're dependent on weed which isn't any different....
+EXPECTED: O:48 C:44 E:15 A:99 N:13 Type:2
+
+--------------------------------------------------------------------------------
+
+# Case 35 (A_highest)
+INPUT: anyone who wants to be typed...
+EXPECTED: O:47 C:99 E:15 A:99 N:1 Type:10
+
+--------------------------------------------------------------------------------
+
+# Case 36 (A_lowest)
+INPUT: The most hard-wearing t-shirt I have ever had the pleasure to know was made of hemp jersey (possibly a hemp/ cotton blend). I bought it for one of my boys, it got worn and washed a lot, and then it we...
+EXPECTED: O:2 C:98 E:88 A:0 N:20 Type:12
+
+--------------------------------------------------------------------------------
+
+# Case 37 (A_lowest)
+INPUT: Hovis 50/50 or Asda own brand wholemeal, both medium slice....
+EXPECTED: O:29 C:65 E:65 A:0 N:5 Type:12
+
+--------------------------------------------------------------------------------
+
+# Case 38 (A_lowest)
+INPUT: What have you come up with so far?...
+EXPECTED: O:45 C:69 E:26 A:0 N:28 Type:8
+
+--------------------------------------------------------------------------------
+
+# Case 39 (A_lowest)
+INPUT: Do you vape?...
+EXPECTED: O:40 C:30 E:15 A:0 N:44 Type:0
+
+--------------------------------------------------------------------------------
+
+# Case 40 (N_highest)
+INPUT: [Relevant WKUK](https://www.youtube.com/watch?v=OIY5pXaowSU)...
+EXPECTED: O:73 C:49 E:1 A:1 N:100 Type:17
+
+--------------------------------------------------------------------------------
+
+# Case 41 (N_highest)
+INPUT: Men drinking coffee's playthrough of Ride to hell retribution....
+EXPECTED: O:73 C:49 E:1 A:1 N:100 Type:17
+
+--------------------------------------------------------------------------------
+
+# Case 42 (N_highest)
+INPUT: SRS is leaking...
+EXPECTED: O:73 C:49 E:1 A:1 N:100 Type:17
+
+--------------------------------------------------------------------------------
+
+# Case 43 (N_highest)
+INPUT: The same disk that had the trailer for brute force? I was speechless when I saw those graphics....
+EXPECTED: O:73 C:49 E:1 A:1 N:100 Type:17
+
+--------------------------------------------------------------------------------
+
+# Case 44 (N_highest)
+INPUT: Who was tennis court?...
+EXPECTED: O:73 C:49 E:1 A:1 N:100 Type:17
+
+--------------------------------------------------------------------------------
+
+# Case 45 (N_lowest)
+INPUT: lol this wasn't directed towards you. this was a joke that would be found offensive pretty much universally.I will message it to you privately....
+EXPECTED: O:17 C:71 E:1 A:98 N:0 Type:10
+
+--------------------------------------------------------------------------------
+
+# Case 46 (N_lowest)
+INPUT: They're pretty excited...but they are both like "lol why were you freaking out in the first place, we knew you'd get in..." Granted, they're biased parents. And college has changed since my dad went t...
+EXPECTED: O:4 C:43 E:91 A:18 N:0 Type:4
+
+--------------------------------------------------------------------------------
+
+# Case 47 (N_lowest)
+INPUT: I thought I was gay for like three years of my high school life. At the time, I didn’t know it was possible to like both genders and I remembered being confused at what the hell ‘bisexual’ is. I just ...
+EXPECTED: O:36 C:36 E:38 A:13 N:0 Type:0
+
+--------------------------------------------------------------------------------
+
+# Case 48 (N_lowest)
+INPUT: What I was getting at wasn't the distribution of the cost of manufacture, but rather the sizeable missed opportunity for tax revenue....
+EXPECTED: O:99 C:91 E:3 A:50 N:0 Type:24
+
+--------------------------------------------------------------------------------
+
